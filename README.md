@@ -53,6 +53,8 @@
   <img src="https://img.icons8.com/color/600/nmap.png" height="42" alt="nmap logo"  />
   <img src="https://ih1.redbubble.net/image.452180662.4771/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.u3.jpg" height="42" alt="metasploit logo"  />
   <img src="https://icons.veryicon.com/png/System/Captiva/wireshark.png" height="42" alt="wireshark logo"  />
+  <img src="https://image.spreadshirtmedia.com/image-server/v1/designs/1048988355,width=300,height=300,backgroundColor=ffffff/burp-suite-icon.jpg" height="42" alt="burp suite logo"  />
+
 
 </div>
 
