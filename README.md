@@ -28,39 +28,26 @@
 ###
 
 <div align="left">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="42" alt="amazonwebservices logo"  />
-<img width="23" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="42" alt="ansible logo"  />
-<img width="23" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" alt="git logo"  />
-<img width="23" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="42" alt="gitlab logo"  />
-<img width="23" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" height="42" alt="docker logo"  />
-<img width="23" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="42" alt="kubernetes logo"  />
-<img width="23" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="42" alt="terraform logo"  />
-<img width="23" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="42" alt="bash logo"  />
-<img width="23" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="42" alt="linux logo"  />
-<img width="23" />
-<img src="https://skillicons.dev/icons?i=cpp" height="42" alt="cplusplus logo"  />
-<img width="23" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/burp/burp-original.svg" height="42" alt="burp suite logo"  />
-<img width="23" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yaml/yaml-original.svg" height="42" alt="yaml logo"  />
-<img width="23" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nmap/nmap-original.svg" height="42" alt="nmap logo"  />
-<img width="23" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" height="42" alt="wireshark logo"  />
-<img width="23" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="42" alt="sqlite logo"  />
-<img width="23" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/metasploit/metasploit-original.svg" height="42" alt="metasploit logo"  />
-<img width="23" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tor/tor-original.svg" height="42" alt="tor logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="42" alt="amazonwebservices logo"  />
+  <img width="23" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="42" alt="ansible logo"  />
+  <img width="23" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" alt="git logo"  />
+  <img width="23" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="42" alt="gitlab logo"  />
+  <img width="23" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" height="42" alt="docker logo"  />
+  <img width="23" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="42" alt="kubernetes logo"  />
+  <img width="23" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="42" alt="terraform logo"  />
+  <img width="23" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="42" alt="bash logo"  />
+  <img width="23" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="42" alt="linux logo"  />
+  <img width="23" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="42" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yaml/yaml-original.svg" height="42" alt="yaml logo"  />
 
 </div>
 
@@ -76,39 +63,6 @@
 </div>
 
 ###
-
-<div align="left">
-</div>
-
-###
-
-<p align="left"></p>
-
-###
-
-<div align="left">
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src=""  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src=""  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src=""  />
-</div>
-
-###
-
 
 
 <!--
