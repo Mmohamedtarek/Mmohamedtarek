@@ -50,7 +50,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yaml/yaml-original.svg" height="42" alt="yaml logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tor/tor-original.svg" height="42" alt="tor logo"  />
   <img src="https://www.svgrepo.com/show/7344/sql-file-format-symbol.svg" height="42" alt="sqlite logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nmap/nmap-original.svg" height="42" alt="nmap logo"  />
+  <img src="https://img.icons8.com/color/600/nmap.png" height="42" alt="nmap logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/metasploit/metasploit-original.svg" height="42" alt="metasploit logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" height="42" alt="wireshark logo"  />
 
