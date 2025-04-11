@@ -47,14 +47,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="42" alt="linux logo"  />
   <img width="23" />
   <img src="https://skillicons.dev/icons?i=cpp" height="42" alt="cplusplus logo"  />
+  <img width="23" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yaml/yaml-original.svg" height="42" alt="yaml logo"  />
+  <img width="23" />
   <img src="https://www.svgrepo.com/show/452117/tor.svg" height="42" alt="tor logo"  />
+  <img width="23" />
   <img src="https://www.svgrepo.com/show/7344/sql-file-format-symbol.svg" height="42" alt="sqlite logo"  />
+  <img width="23" />
   <img src="https://img.icons8.com/color/600/nmap.png" height="42" alt="nmap logo"  />
+  <img width="23" />
   <img src="https://ih1.redbubble.net/image.452180662.4771/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.u3.jpg" height="42" alt="metasploit logo"  />
+  <img width="23" />
   <img src="https://icons.veryicon.com/png/System/Captiva/wireshark.png" height="42" alt="wireshark logo"  />
+  <img width="23" />
   <img src="https://image.spreadshirtmedia.com/image-server/v1/designs/1048988355,width=300,height=300,backgroundColor=ffffff/burp-suite-icon.jpg" height="42" alt="burp suite logo"  />
+  <img width="23" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYkrQ6ElBN8pgzZ8YTMK0Wegqju23v3ANClA&s" height="42" alt="Hack The Box logo" />
+  <img width="23" />
 
 
 
