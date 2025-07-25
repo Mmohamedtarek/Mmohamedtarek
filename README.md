@@ -1,4 +1,4 @@
-<h5 align="left">👋 Hello! I'm [mohamed tarek]<br><br>🎓 I'm a Telecommunications Engineering student passionate about DevOps, DevSecOps, and Penetration Testing.<br><br>🚀 Currently improving my skills using tools and technologies like:<br><br>Infrastructure as Code: Terraform, Ansible<br><br>Automation & Deployment: Docker, Git, GitLab, CI/CD<br><br>Security: Burp Suite, Penetration Testing, XSS, SQL Injection, Bug Hunting<br><br>Servers & Cloud: Linux, AWS<br><br>Scripting & Configuration: Bash, YAML<br><br>Network Tools: Nmap</h5>
+<h5 align="left">👋 Hello! I'm mohamed tarek<br><br>🎓 I'm a Telecommunications Engineering student passionate about DevOps, DevSecOps, and Penetration Testing.<br><br>🚀 Currently improving my skills using tools and technologies like:<br><br>Infrastructure as Code: Terraform, Ansible<br><br>Automation & Deployment: Docker, Git, GitLab, CI/CD<br><br>Security: Burp Suite, Penetration Testing, XSS, SQL Injection, Bug Hunting<br><br>Servers & Cloud: Linux, AWS<br><br>Scripting & Configuration: Bash, YAML<br><br>Network Tools: Nmap</h5>
 
 ###
 
@@ -57,8 +57,6 @@
   <img src="https://img.icons8.com/color/600/nmap.png" height="42" alt="nmap logo"  />
   <img width="23" />
   <img src="https://ih1.redbubble.net/image.452180662.4771/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.u3.jpg" height="42" alt="metasploit logo"  />
-  <img width="23" />
-  <img src="https://icons.veryicon.com/png/System/Captiva/wireshark.png" height="42" alt="wireshark logo"  />
   <img width="23" />
   <img src="https://image.spreadshirtmedia.com/image-server/v1/designs/1048988355,width=300,height=300,backgroundColor=ffffff/burp-suite-icon.jpg" height="42" alt="burp suite logo"  />
   <img width="23" />
