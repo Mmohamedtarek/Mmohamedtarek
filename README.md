@@ -10,13 +10,13 @@
 ###
 
 <div align="left">
-  <a href="mo.tarek1042000@gmail.com" target="_blank">
+  <a href="mailto:mo.tarek1042000@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href=" www.linkedin.com/in/mohamed-tarek-527032318" target="_blank">
+  <a href="https://www.linkedin.com/in/mohamed-tarek-527032318" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="01004577984" target="_blank">
+  <a href="https://wa.me/201004577984" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
 </div>
@@ -62,9 +62,18 @@
   <img width="23" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYkrQ6ElBN8pgzZ8YTMK0Wegqju23v3ANClA&s" height="42" alt="Hack The Box logo" />
   <img width="23" />
+</div>
 
+###
 
-
+### 🏅 Certifications
+<div align="left">
+  <a href="https://www.credly.com/badges/134e6b42-4744-4c35-93ee-faec4f6e87e3/public_url">
+    <img src="https://images.credly.com/images/2f7b0627-48a0-4894-8d46-3245bdfe0463/image.png" height="120" alt="AWS Foundations badge" />
+  </a>
+  <a href="https://www.credly.com/badges/9ad629a6-4661-409b-907f-27edd66b9773/public_url">
+    <img src="https://images.credly.com/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" height="120" alt="AWS Architecting badge" />
+  </a>
 </div>
 
 ###
@@ -74,24 +83,3 @@
 <img src="https://github.com/Mmohamedtarek/Mmohamedtarek/blob/output/snake.svg?raw=true" alt="Snake animation" />
 
 ###
-
-<div align="left">
-</div>
-
-###
-
-
-<!--
-**Mmohamedtarek/Mmohamedtarek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
