@@ -66,11 +66,11 @@
 
 ###
 
-## 🏅 Certifications
-<div align="left">
-  [![AWS Foundations](https://raw.githubusercontent.com/Mmohamedtarek/Mmohamedtarek/refs/heads/main/assets/blob-1.png)](https://www.credly.com/badges/9ad629a6-4661-409b-907f-27edd66b9773/public_url) &nbsp;&nbsp;&nbsp; [![AWS Architecting](assets/blob.png)](https://www.credly.com/badges/134e6b42-4744-4c35-93ee-faec4f6e87e3/public_url)
+##🏅 Certifications
+<div align="left"> 
+<a href="https://www.credly.com/badges/134e6b42-4744-4c35-93ee-faec4f6e87e3/public_url"> <img src="https://raw.githubusercontent.com/Mmohamedtarek/Mmohamedtarek/refs/heads/main/assets/blob-1.png" height="120" alt="AWS Foundations badge" /> 
+</a> <a href="https://www.credly.com/badges/9ad629a6-4661-409b-907f-27edd66b9773/public_url"> <img src="https://images.credly.com/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" height="120" alt="AWS Architecting badge" /> </a>
 </div>
-
 
 ###
 
