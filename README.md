@@ -66,7 +66,7 @@
 
 ###
 
-###🏅 Certifications
+### 🏅 Certifications
 <div align="left"> 
 <a href="https://www.credly.com/badges/134e6b42-4744-4c35-93ee-faec4f6e87e3/public_url"> <img src="https://raw.githubusercontent.com/Mmohamedtarek/Mmohamedtarek/refs/heads/main/assets/blob-1.png" height="120" alt="AWS Foundations badge" /> 
 </a> <a href="https://www.credly.com/badges/9ad629a6-4661-409b-907f-27edd66b9773/public_url"> <img src="https://raw.githubusercontent.com/Mmohamedtarek/Mmohamedtarek/refs/heads/main/assets/blob.png" height="120" alt="AWS Architecting badge" /> </a>
