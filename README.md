@@ -68,7 +68,7 @@
 
 ## 🏅 Certifications
 <div align="left">
-  [![AWS Foundations](./assets/blob-1.png)](https://www.credly.com/badges/9ad629a6-4661-409b-907f-27edd66b9773/public_url) &nbsp;&nbsp;&nbsp; [![AWS Architecting](./assets/blob.png)](https://www.credly.com/badges/134e6b42-4744-4c35-93ee-faec4f6e87e3/public_url)
+  [![AWS Foundations](assets/blob-1.png)](https://www.credly.com/badges/9ad629a6-4661-409b-907f-27edd66b9773/public_url) &nbsp;&nbsp;&nbsp; [![AWS Architecting](assets/blob.png)](https://www.credly.com/badges/134e6b42-4744-4c35-93ee-faec4f6e87e3/public_url)
 </div>
 
 
