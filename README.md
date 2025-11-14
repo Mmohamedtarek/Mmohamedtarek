@@ -1,4 +1,4 @@
-<h5 align="left">👋 Hello! I'm mohamed tarek<br><br>🎓 I'm a Telecommunications Engineering student passionate about DevOps, DevSecOps, and Penetration Testing.<br><br>🚀 Currently improving my skills using tools and technologies like:<br><br>Infrastructure as Code: Terraform, Ansible<br><br>Automation & Deployment: Docker, Git, GitLab, CI/CD<br><br>Security: Burp Suite, Penetration Testing, XSS, SQL Injection, Bug Hunting<br><br>Servers & Cloud: Linux, AWS<br><br>Scripting & Configuration: Bash, YAML<br><br>Network Tools: Nmap</h5>
+<h8 align="left">👋 Hello! I'm mohamed tarek<br><br>🎓 I'm a Telecommunications Engineering student passionate about DevOps, DevSecOps, and Penetration Testing.<br><br>🚀 Currently improving my skills using tools and technologies like:<br><br>Infrastructure as Code: Terraform, Ansible<br><br>Automation & Deployment: Docker, Git, GitLab, kubernetes (K8s), CI/CD<br><br>Security: Burp Suite, Penetration Testing, XSS, SQL Injection, Bug Hunting<br><br>Servers & Cloud: Linux, AWS<br><br>Scripting & Configuration: Bash, YAML<br></h8>
 
 ###
 
@@ -66,15 +66,11 @@
 
 ###
 
-### 🏅 Certifications
+## 🏅 Certifications
 <div align="left">
-  <a href="https://www.credly.com/badges/134e6b42-4744-4c35-93ee-faec4f6e87e3/public_url">
-    <img src="https://images.credly.com/images/2f7b0627-48a0-4894-8d46-3245bdfe0463/image.png" height="120" alt="AWS Foundations badge" />
-  </a>
-  <a href="https://www.credly.com/badges/9ad629a6-4661-409b-907f-27edd66b9773/public_url">
-    <img src="https://images.credly.com/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" height="120" alt="AWS Architecting badge" />
-  </a>
+  [![AWS Foundations](./assets/blob%20(1).png)](https://www.credly.com/badges/9ad629a6-4661-409b-907f-27edd66b9773/public_url) &nbsp;&nbsp;&nbsp; [![AWS Architecting](./assets/blob.png)](https://www.credly.com/badges/134e6b42-4744-4c35-93ee-faec4f6e87e3/public_url)
 </div>
+
 
 ###
 
