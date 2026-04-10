@@ -23,7 +23,7 @@
 
 ###
 
-<img align="right" height="150" src="https://camo.githubusercontent.com/3e4ba60aaf08d8e8b8b91661ac3c263e3b0bb8ded371128dc3fe9b84b5464e42/68747470733a2f2f6d656469612e74656e6f722e636f6d2f726550446644574f33586f41414141642f6861636b696e672e676966"  />
+<img align="right" height="150" src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*WVfimFBOp5OrEMze.gif"  />
 
 ###
 
